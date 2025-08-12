@@ -26,6 +26,7 @@ public class CreateNewUser extends Methods_Perant  {
 		locaterFind("id", "tdb1").click();
 		System.out.println(AlertText());
  		AlertCCase("Yes");
+ 		System.out.println("df wnf sdkfb skdfskdf ksdnfkj ");
 		
 		
 	}
